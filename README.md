@@ -10,5 +10,3 @@ You can click the Preview link to take a look at your changes.
 [![Computroniks Stats](https://github-readme-stats.vercel.app/api?username=computroniks&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=computroniks&hide=roff&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=computroniks&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
