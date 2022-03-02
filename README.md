@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 [![Computroniks Stats](https://github-readme-stats.vercel.app/api?username=computroniks&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=computroniks&hide=roff&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Visitor Count  
+![Visitor Count](https://profile-counter.glitch.me/computroniks/count.svg)
