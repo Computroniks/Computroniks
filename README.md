@@ -13,3 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 Visitor Count  
 ![Visitor Count](https://profile-counter.glitch.me/computroniks/count.svg)
+
+Holopin Badges
+[![@computroniks's Holopin board](https://holopin.io/api/user/board?user=computroniks)](https://holopin.io/@computroniks)
+
