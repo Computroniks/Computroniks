@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Computroniks
 - 👀 I’m interested in all things backend and server related as well as embedded solutions
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ and VueJS
 - 📫 Contact me at [mnickson@sidingsmedia.com](mailto:mnickson@sidingsmedia.com)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
